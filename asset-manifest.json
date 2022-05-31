@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hmart/static/css/main.eb33513a.css",
+    "main.js": "/hmart/static/js/main.78781b59.js",
+    "index.html": "/hmart/index.html",
+    "main.eb33513a.css.map": "/hmart/static/css/main.eb33513a.css.map",
+    "main.78781b59.js.map": "/hmart/static/js/main.78781b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb33513a.css",
+    "static/js/main.78781b59.js"
+  ]
+}
